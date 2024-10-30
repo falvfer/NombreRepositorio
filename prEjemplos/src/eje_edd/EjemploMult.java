@@ -18,6 +18,7 @@ public class EjemploMult {
 		// probar con el 24, -7 , 19, 11
 		Scanner sc = new Scanner(System.in);
 
+		System.out.println("Hola Mundo");
 		System.out.println("Introduce un número distinto de cero para multiplicacion");
 		System.out.println("Si el número es cero acaba el programa.");
 
